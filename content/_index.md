@@ -12,6 +12,5 @@ CS2 est dur à prendre en main, il faut du temps, beaucoup de temps...
 Mais ne vous inquitez pas il suffit de  
 Persevérance et de patience !
 
-
 ![CS Background2](/img/cs_background2.png)
 
