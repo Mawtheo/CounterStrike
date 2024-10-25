@@ -1,5 +1,3 @@
-# .github/workflows/gh-pages.yml
-# fichier automatisation de build
 name: GitHub Pages
 
 on:
@@ -12,6 +10,8 @@ jobs:
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write  # Assurez-vous que le workflow a les permissions d'écriture
     steps:
       - name: Checkout
         uses: actions/checkout@v3
