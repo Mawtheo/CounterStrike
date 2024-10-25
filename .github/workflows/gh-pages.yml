@@ -1,5 +1,5 @@
 # .github/workflows/gh-pages.yml
-
+# fichier automatisation de build
 name: GitHub Pages
 
 on:
