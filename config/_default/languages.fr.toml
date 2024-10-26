@@ -2,7 +2,7 @@ disabled = false
 languageCode = "fr"
 languageName = "French"
 weight = 1
-title = "Counter Strike CIEL !"
+title = "Wiki Strike"
 
 [params]
   displayName = "FR"
@@ -11,7 +11,7 @@ title = "Counter Strike CIEL !"
   dateFormat = "2 January 2006"
   logo = "/img/cs_logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "Counter Strike Ciel"
+  # description = "Counter Strike"
   copyright = "© 2024 Maxtheo"
 [params.author]
     name = " "
