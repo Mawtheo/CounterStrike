@@ -3,9 +3,7 @@ title: "Page d'accueil"
 description: "Blog sur Counter Strike"
 ---
 
-{{< typeit tag=h2, speed=50 >}}
-Bienvenue sur le Blog dédié à Counter Strike !
-{{< /typeit >}}
+## Bienvenue sur le Blog dédié à Counter Strike !
 
 ![CS Background1](/img/cs_background1.png)
 
