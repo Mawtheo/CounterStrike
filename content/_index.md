@@ -1,5 +1,6 @@
 ---
-description: Blog sur Counter Strike
+title: "Page d'accueil"
+description: "Blog sur Counter Strike"
 ---
 
 {{< typeit tag=h2, speed=50 >}}
